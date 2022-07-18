@@ -1,2 +1,4 @@
 # Python_Numpy_Pandas_Matplotlib_Seaborn_Practice
 Python_Numpy_Pandas_Matplotlib_Seaborn_Practice
+
+Practical exercises with Python, Numpy, Pandas, Matplotlib and Seaborn
